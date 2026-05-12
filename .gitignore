@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Scala / SBT
+target/
+project/project/
+project/target/
+
+# BSP / Metals / Bloop
+.bsp/
+.metals/
+.bloop/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class
